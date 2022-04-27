@@ -1,0 +1,9 @@
+# This file describes a Fastly Compute@Edge package. To learn more visit:
+# https://developer.fastly.com/reference/fastly-toml/
+
+authors = ["kailan@enviark.com"]
+description = "Generate QR codes at the edge."
+language = "rust"
+manifest_version = 2
+name = "qr"
+service_id = "3US8UZsWnxjTWTONkgu83d"
